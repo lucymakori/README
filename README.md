@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>README.md</title>
-</head>
-<body>
-	<h1><b>DiMEDFAST STARTER TEEMPLATE
-            1.Directory Structure
+# Directory Structure
                                             (Folders)
 ├── asstes     # Contains uncompiled assets such as styles,images and fonts of our project.
 ├── build          # it 
@@ -24,7 +17,6 @@
 	
 
 
-</body>
-</html># README
+# README
 # README
 # README
