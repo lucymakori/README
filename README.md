@@ -4,18 +4,18 @@
     </a>
 </p>
 
-#### MEDFAST PAYMENT MODULE
+###### MEDFAST PAYMENT MODULE
 ------------
 Payment system for issuing and printing bank cheques,record management,scheduling events and keep accounting records
 
 
-#### INSTALLATION
+###### INSTALLATION
 ------------
 - clone this repository.
 - install dependencies using yarn install or npm install.
 - Start development server using yarn dev or npm run dev.
 
-#### DIRECTORY STRUCTURE
+###### DIRECTORY STRUCTURE
 -------------------
 
 ```
