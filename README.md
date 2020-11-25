@@ -1,8 +1,19 @@
 <p align="center">
-    <a href="https://www.yiiframework.com/" target="_blank">
-        <img src="https://github.com/lucymakori/README/blob/main/medfast_logo.png" width="400" alt="Yii Framework" />
+    <a href="http://medfast.ml/s3//" target="_blank">
+        <img src="https://github.com/lucymakori/README/blob/main/medfast_logo.png" width="400" alt="medfast" />
     </a>
 </p>
+
+#### MEDFAST PAYMENT MODULE
+------------
+Payment system for issuing and printing bank cheques,record management,scheduling events and keep accounting records
+
+
+#### INSTALLATION
+------------
+- clone this repository.
+- install dependencies using yarn install or npm install.
+- Start development server using yarn dev or npm run dev.
 
 #### DIRECTORY STRUCTURE
 -------------------
@@ -32,9 +43,4 @@ nuxt.config.js          contains app setting for asset builder to load and build
 package.json            contains defines app dependencies and start scripts commands
 
 ```
-#### Installation
-------------
 
-- clone this repository.
-- install dependencies using yarn install or npm install.
-- Start development server using yarn dev or npm run dev.
