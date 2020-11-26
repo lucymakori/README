@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="http://medfast.ml/s3//" target="_blank">
-        <img src="https://github.com/lucymakori/README/blob/main/medfast_logo.png" width="400" alt="medfast" />
-    </a>
-</p>
+![](/home/lucy/Downloads/medfast_1.html.png) 
 
 Medfast payment module
 ------------
@@ -43,4 +39,4 @@ nuxt.config.js          contains app setting for asset builder to load and build
 package.json            contains defines app dependencies and start scripts commands
 
 ```
-
+ 
